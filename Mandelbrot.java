@@ -3,7 +3,7 @@ import java.awt.*;
 /*
 *   Author:      I.M Sandaruwan
 *                E/13/315
-*   Description: Draw the mandelbrot set
+*   Description: Draw the mandelbrot set.
 */
 
 public class Mandelbrot extends Fractal {
